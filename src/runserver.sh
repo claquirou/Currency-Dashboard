@@ -1,0 +1,1 @@
+/home/claquirou/Bureau/CurrencyDashboard/env/bin/python /home/claquirou/Bureau/CurrencyDashboard/src/manage.py runserver

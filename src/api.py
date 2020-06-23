@@ -1,5 +1,4 @@
 from datetime import date, timedelta
-from pprint import pprint
 
 import requests
 
